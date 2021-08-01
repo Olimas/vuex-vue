@@ -1,5 +1,7 @@
 # vuex
-
+```
+npm i vuex
+```
 ## Project setup
 ```
 npm install
