@@ -1,4 +1,5 @@
 # vuex
+https://olimas.github.io/vuex-vue/
 ```
 npm i vuex
 ```
